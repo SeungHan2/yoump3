@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>My Private Audio Feed</title>
+    <link>https://seunghan2.github.io/yoump3/</link>
+    <description>Personal audio archive for offline listening.</description>
+    <language>ko-KR</language>
+    <itunes:author>Your Name</itunes:author>
+    <image>
+      <url># optional, e.g., https://yourname.github.io/ytaudio/cover.jpg</url>
+    </image>
+    <lastBuildDate>Mon, 10 Nov 2025 08:12:54 +0000</lastBuildDate>
+    <item>
+      <title>평생 겪는데도 월요일에 적응하기 쉽지 않다 [s69uRmyjVOY]</title>
+      <guid>https://seunghan2.github.io/yoump3/mp3/%ED%8F%89%EC%83%9D%20%EA%B2%AA%EB%8A%94%EB%8D%B0%EB%8F%84%20%EC%9B%94%EC%9A%94%EC%9D%BC%EC%97%90%20%EC%A0%81%EC%9D%91%ED%95%98%EA%B8%B0%20%EC%89%BD%EC%A7%80%20%EC%95%8A%EB%8B%A4%20%5Bs69uRmyjVOY%5D.mp3</guid>
+      <pubDate>Mon, 10 Nov 2025 07:52:56 +0000</pubDate>
+      <enclosure url="https://seunghan2.github.io/yoump3/mp3/%ED%8F%89%EC%83%9D%20%EA%B2%AA%EB%8A%94%EB%8D%B0%EB%8F%84%20%EC%9B%94%EC%9A%94%EC%9D%BC%EC%97%90%20%EC%A0%81%EC%9D%91%ED%95%98%EA%B8%B0%20%EC%89%BD%EC%A7%80%20%EC%95%8A%EB%8B%A4%20%5Bs69uRmyjVOY%5D.mp3" length="220181119" type="audio/mpeg" />
+      <itunes:author>Your Name</itunes:author>
+    </item>
+  </channel>
+</rss>
